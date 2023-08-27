@@ -9,4 +9,4 @@ Kelas: PGWEB B
 
 Avatar:
 
-![Avatar](image/my.png)
+![Avatar](image/me.jpg)
