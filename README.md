@@ -9,6 +9,4 @@ Kelas: PGWEB B
 
 Avatar:
 
-![Avatar](image/me.jpg)
-
 <img src="image/me.jpg" alt="Avatar" width="200" height="200">
